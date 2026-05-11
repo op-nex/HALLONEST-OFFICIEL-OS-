@@ -19,5 +19,4 @@ and an "unstable" connection to those maksom trash servers
 
 - ## 🛠️ Technical Specifications
 - **Language:** Python 3.x
-- **OS Support:** legit everything. even a potato. as long as it can run pithon
-- ( not a typo btw )
+- **OS Support:** legit everything. even a potato. as long as it can run pithon ( not a typo btw )
