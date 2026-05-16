@@ -1,3 +1,7 @@
+
+
+
+
 # 🕸️ Hallownest OS - Version 0.6
 
 **Hallownest OS** is a terminal-based OS simulation developed in Python.
@@ -20,3 +24,9 @@ and an "unstable" connection to those maksom trash servers
 - ## 🛠️ Technical Specifications
 - **Language:** Python 3.x
 - **OS Support:** legit everything. even a potato. as long as it can run pithon ( not a typo btw )
+
+
+
+
+QUICK SHIT. USERNAME IS NEX
+PASSWORD IS 676767
