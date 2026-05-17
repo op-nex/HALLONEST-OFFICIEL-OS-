@@ -28,13 +28,63 @@ def run_tuff_calculator():
     else:
         print("u are so dumb. u should ve been in 9/11") 
 
+    HIGGER = input("do u like maksom ai servers , respond with yes or no only = ")
+    if HIGGER == "yes":
+       print(" vro they are worst then aternos , how tf u like them ")
+    elif HIGGER == "YES":
+       print(" vro they are worst then aternos , how tf u like them ")   
+    elif HIGGER == "no":
+        print("W")
+        time.sleep(1)
+        print("os tip: i also think that fr fr ")
+        time.sleep(0.5)
+        print("maksom ai : yall cant be, why always me ")
+        time.sleep(1.5)
+        print(" we absolotly do not care kkkk ")
+        time.sleep(1.5)
+        print(" os tip: fr fr w calc")
+        time.sleep(1.7)
+        print(" alr lets get back to the qustions ")
+        time.sleep(2)
+        print("VROOOOOOO THE SERVERS ARE TRASH ? I CANT EVEN CONECT£%%%%%")
+        print("wait pls")
+        time.sleep(3)
+        print(" finaly stable")
+    elif HIGGER == "NO":
+        print("W")
+        time.sleep(1)
+        print("os tip: i also think that fr fr ")
+        time.sleep(0.5)
+        print("maksom ai : yall cant be, why always me ")
+        time.sleep(1.5)
+        print(" we absolotly do not care kkkk ")
+        time.sleep(1.5)
+        print(" os tip: fr fr w calc")
+        time.sleep(1.7)
+        print(" alr lets get back to the qustions ")
+        time.sleep(2)
+        print("VROOOOOOO THE SERVERS ARE TRASH ? I CANT EVEN CONECT£%%%%%")
+        print("wait pls")
+        time.sleep(3)
+        print(" finaly stable")    
+    elif HIGGER == "67":
+        print(" did the os tell u to send it to me !!!!!")
+        time.sleep(0.7)
+        print(" cuz i like it vro massss wwwwwww")
+        time.sleep(0.2)
+        print("677777777777777777777777777777777777777777777777777777777777777777 SIX SEVENNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN")
+        time.sleep(2)
+        print(" ok lets go back to work")
+    else:
+        print("understund btw (:")
+         
     rebonc = input("100 + 1 = (important to do ending 1 or 2): ")
     if rebonc == "101":
         print("woooooow... u are so smart") 
     elif rebonc == "1":
         print("u passed")
     elif rebonc == "67":
-        print("blud")
+        print("blud w")
     
     else:
         print("nahh soo dumb.. ima hack u")
@@ -42,7 +92,7 @@ def run_tuff_calculator():
         
         #fakeh hack
         count = 15
-        while count < 67: 
+        while count < 167: 
             print("u just got haked all ur filles are mine")
             count += 1
             time.sleep(0.1)
@@ -59,6 +109,7 @@ def run_tuff_calculator():
         time.sleep(2)
         print("phhhhh letme give u ur acces to it back")
         time.sleep(5)
+        print(" acces regranter< ")
     print("\nReturning to Hallownest OS ...")
     time.sleep(3)
 
@@ -72,13 +123,13 @@ def welcome_screen():
     print("=========================================")
     print("\n[!] الرجاء تسجيل الدخول للمتابعة please log in")
     
-    user = input(" username اسم المستخدم: ")
-    password = input(" password كلمة المرور: ")
+    user = input(" username : ")
+    password = input(" password : ")
 
-    if (user == "nex" and password == "676767")or (user == "maksom" and password == "nigga"):
-        print("\n[+] searching in maksom AI servers... جاري التحقق")
+    if (user == "nex" or user == "NEX" and password == "676767")or (user == "maksom" and password == "nigga"):
+        print("\n[+] searching in maksom AI servers...")
         time.sleep(2)
-        print("[✔] access granted تم الدخول بنجاح!")
+        print("[✔] access granted !")
         main_menu()
     else:
         print("\n[×] thats False. try again lil bro letme recontacte it ")
@@ -99,7 +150,7 @@ def main_menu():
         print("2. Enter maksom AI app")
         print("3. Exit OS")
         print("4. update advantegs and os ")
-        print("\nWARNING: DONT PICK UNDISPLAYED NUMBERS OR U BANNED")
+        print("\nWARNING: DONT PICK UNDISPLAYED NUMBERS OR U WILL BE BANNED")
         
         choice = input("\npick a number: ")
         
@@ -108,7 +159,8 @@ def main_menu():
         elif choice == "2":
             print("asking M servers for access... pls wait")
             time.sleep(3)
-            print("sry. maksom AI servers are in the abyss")
+            print("sry. maksom AI servers are NOT RESPONDING °°°")
+            time.sleep(2)
             print("try the local host in instagram")
             time.sleep(2)
         elif choice == "3":
@@ -124,6 +176,7 @@ def main_menu():
             print("i belive u want to re log . ")
             time.sleep(2)
             print("fine........")
+            time.sleep(1)
             welcome_screen()
         elif choice == "4":
             print("os version...")
@@ -132,12 +185,27 @@ def main_menu():
             print("update not available sadly")
             time.sleep(5)
             print("update advanteges : ")
+            time.sleep(1)
             print("colabe with maksom servers from alonia, the abbys and maksom AI locale host from insta")
+            time.sleep(1)
             print("new ability. u can use the OS multipul times without log in cuz the M servers safty is improved ")
+            time.sleep(1)
+            print("sadly . the maksom ai servers lost the V0.5 cuz they are trash . idk why but 0.5 is the prototype but its not poen source like the rest ")
+            time.sleep(1)
             print("using the maksom servers . tuff ahh calculator is available without downloding it ")
+            time.sleep(1)
             print("moving to desktop in 15s")
             time.sleep(15)
             print("move to looby")
+        elif choice == "67":
+            print("vroooooo i dont like it , maybe tuff calc will love it bro")
+            time.sleep(5)
+            print(" well ,,,,,,, i anit letting that slide ")
+            time.sleep(2)
+            print(" OS TIP / re log u stupid niggaXXXXXX  ")
+            time.sleep(4)
+            welcome_screen()
+        
 
         else:
             print("TOO BAD U WILL BE BANND FROM UR OWN PC KKKK")
