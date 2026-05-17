@@ -27,7 +27,7 @@ def run_tuff_calculator():
         print("bro... that is ossama bin ladin ") 
     else:
         print("u are so dumb. u should ve been in 9/11") 
-
+#version 0.6.1 here .......
     HIGGER = input("do u like maksom ai servers , respond with yes or no only = ")
     if HIGGER == "yes":
        print(" vro they are worst then aternos , how tf u like them ")
@@ -197,6 +197,7 @@ def main_menu():
             print("moving to desktop in 15s")
             time.sleep(15)
             print("move to looby")
+    #new 'tuff' choice 
         elif choice == "67":
             print("vroooooo i dont like it , maybe tuff calc will love it bro")
             time.sleep(5)
