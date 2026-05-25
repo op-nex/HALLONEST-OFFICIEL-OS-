@@ -9,17 +9,16 @@ Built for speed, humor, and security, it combines a functional CLI
 (Command Line Interface) with community-driven lore inspired by 
 *Hollow Knight* and the infamous *Maksom Servers*.
 
-## 🚀 Overview
-This project is designed to be a lightweight, interactive environment.
-It features a custom login system, a prank-ready calculator, 
-and an "unstable" connection to those maksom trash servers
+## 🚀 Overview 
+This project is designed to be a lightweight, interactive environment. a slash/ means it's a feature not for every v . maybe old ones cant have it 
+It features a custom login system, 
+a prank-ready calculator, 
+an "unstable" connection to those maksom trash servers,
+an ai that is able to communicate with u abt everything,
+/ a defender of ur pc /
+/ a mini game inside a mini game)
 
-## ✨ Features
-- **Secure Login:** Multi-user authentication system (Nex/Maksom).
-- **Tuff Ahh Calculator:** An interesting soooo advanced IQ-testing tool that MAYBE CAN "hack" you if you fail the math.
-- **Abyss Server Integration:** Simulated connection to the SO famous (and mostly broken) Maksom AI servers.
-- **Lore-Rich Experience:** Dynamic system messages and "safety prompts" based on the Hallownest universe.
-- **Recursive OS Loop:** Improved stability in V 0.6 allowing for continuous use without system crashes
+
 
 - ## 🛠️ Technical Specifications
 - **Language:** Python 3.x
@@ -28,5 +27,5 @@ and an "unstable" connection to those maksom trash servers
 
 
 
-QUICK SHIT. USERNAME IS NEX
+QUICK SHIT.u can use my USERNAME NEX
 PASSWORD IS 676767
