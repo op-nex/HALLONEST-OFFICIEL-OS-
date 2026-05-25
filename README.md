@@ -2,12 +2,11 @@
 
 
 
-# 🕸️ Hallownest OS - Version 0.6
+# 🕸️ Hallownest OPERATING SYSTEM ( A PY MINI GAME)
 
 **Hallownest OS** is a terminal-based OS simulation developed in Python.
 Built for speed, humor, and security, it combines a functional CLI
-(Command Line Interface) with community-driven lore inspired by 
-*Hollow Knight* and the infamous *Maksom Servers*.
+(Command Line Interface) with community-driven lore inspired by  the infamous *Maksom Servers*.
 
 ## 🚀 Overview 
 This project is designed to be a lightweight, interactive environment. a slash/ means it's a feature not for every v . maybe old ones cant have it 
@@ -22,7 +21,7 @@ an ai that is able to communicate with u abt everything,
 
 - ## 🛠️ Technical Specifications
 - **Language:** Python 3.x
-- **OS Support:** legit everything. even a potato. as long as it can run pithon ( not a typo btw )
+- **OS Support:** i mean... the exe is built on a AR x86 but the source code can work on every device that has py 
 
 
 
