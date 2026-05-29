@@ -21,7 +21,7 @@ an ai that is able to communicate with u abt everything,
 
 - ## Technical Specifications
 - **Language:** Python 3.x
-- **OS Support:** i mean... the exe is built on a AR x86 but the source code can work on every device that has py 
+- **OS Support:** i mean... the exe is built on a AR x86 but the source code can work on every device that has py and by any i MEAN ANYTHING..
 
 
 
