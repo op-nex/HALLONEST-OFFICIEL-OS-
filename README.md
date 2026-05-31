@@ -1,6 +1,6 @@
 # HALLONEST OPERATING SYSTEM or HALLONEST OS
 
-***Hi***
+***Hi yall.. pls consider giving some of your time to this page for a second if it's your first visit. tysm***
 
 **🎮 What is this?**
 - A peculiar operating system that has opinions about you.
