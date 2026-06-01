@@ -1,4 +1,6 @@
-# HALLONEST OPERATING SYSTEM or HALLONEST OS
+# HALLONEST OPERATING SYSTEM
+**or**
+# HALLONEST OS
 
 ***Hi yall.. pls consider giving some of your time to this page for a second if it's your first visit. tysm***
 
