@@ -3,7 +3,7 @@
 ***Hi yall.. pls consider giving some of your time to this page for a second if it's your first visit. tysm***
 
 **🎮 What is this?**
-- A peculiar operating system that has opinions about you.
+- A  python game about an OS that has opinions about you.
 - It greets you with a login screen. It asks you questions. It roasts you. Sometimes it helps you. Sometimes it locks you out.
 - Sounds normal? It gets weirder.
 
