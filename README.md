@@ -1,6 +1,4 @@
 # HALLONEST OPERATING SYSTEM
-**or**
-# HALLONEST OS
 
 ***Hi yall.. pls consider giving some of your time to this page for a second if it's your first visit. tysm***
 
@@ -31,7 +29,7 @@ __Option 2: Any Computer (Windows, Mac, Linux...)__
 - Run it using python...
 
 __Option 3: Playing on Mobile__
-- Python doesn't run natively on phones, but hey ... i also have my phone so i can help u . you can use a Python app:
+- Python doesn't run natively on phones, but hey ... i also have a phone so i can help u . you can use a Python app . let me explain:
 
 _Android:_
 - Download "Pydroid 3" from Google Play Store (not an ad but its what i am using. you can use legit any py app)
@@ -42,7 +40,7 @@ _iPhone:_ *( i don't have an iPhone so ts help-response is 100% ai )*
 - Download "Pythonista" from App Store
 - Copy-paste the code into the editor
 - Run it
-- *This gives you the full experience on your phone*
+- *This gives you the full experience on your phone* said claud kkkk
 
 **🚀 Quick Start**
 - Run the program and you'll see a login screen.
@@ -130,9 +128,9 @@ _iPhone:_ *( i don't have an iPhone so ts help-response is 100% ai )*
   - Add new features
   - *Each section is ""clearly"" marked. Feel free to experiment.*
 
-**The Real Story** *(didn't find a good imogi to add soo take ts⊙⁠﹏⁠⊙)*
+**The Real Story** *(didn't find a good "imogi' to add soo take ts⊙⁠﹏⁠⊙)*
 - This OS is built on the idea that learning doesn't have to be boring.
-- You could learn loops by writing `print i 100 times` (not correct btw) __OR__ you could learn loops by building a game where the OS roasts you 4000 times if you get banned.
+- You could learn loops by writing `print i 100 times` (not correct btw) __OR__ you could learn loops by building a game where a CALCULATOR roasts you 4000 times if you get banned.
 - Both teach loops. One is more fun.
 - **HALLONEST OS chose fun.**
 
